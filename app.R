@@ -6,4 +6,4 @@ rsconnect::setAccountInfo(name='wupqf2-nirmalya-rajpandit',
 			  secret='AMQVBPkYBf8vScZGm1OFODrpmFTCf43LI5mH6GW1')
 
 library(rsconnect)
-    rsconnect::deployApp('transport_model.R')
+    rsconnect::deployApp('transport_model')
