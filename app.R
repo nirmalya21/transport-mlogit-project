@@ -7,3 +7,6 @@ rsconnect::setAccountInfo(name='wupqf2-nirmalya-rajpandit',
 
 library(rsconnect)
     rsconnect::deployApp('transport_model')
+
+library(shiny)
+runGitHub("shiny-dashboard-sales", "nirmalya21")
