@@ -1,4 +1,4 @@
-
+options(repos = c(CRAN = "https://cloud.r-project.org"))
 library(rsconnect)
 
 rsconnect::setAccountInfo(name='wupqf2-nirmalya-rajpandit',
