@@ -1,3 +1,6 @@
+install.packages("rsconnect")
+library(rsconnect)
+
 library(tidyverse)
 library(mlogit)
 
