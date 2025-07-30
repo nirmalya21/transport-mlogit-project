@@ -1,9 +1,3 @@
-install.packages("rsconnect")
-library(rsconnect)
-
-rsconnect::setAccountInfo(name='your_account_name',
-                          token='your_token',
-                          secret='your_secret')
 
 library(tidyverse)
 library(mlogit)
