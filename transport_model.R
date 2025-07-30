@@ -98,6 +98,4 @@ server <- function(input, output, session) {
 
 shinyApp(ui, server)
 
-       x = "Transport Mode",
-       y = "Mean Probability") +
-  theme_minimal()
+  
