@@ -1,4 +1,4 @@
-install.packages("rsconnect")
+
 library(rsconnect)
 
 rsconnect::setAccountInfo(name='wupqf2-nirmalya-rajpandit',
